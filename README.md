@@ -1,3 +1,11 @@
+![Particle Detector Analyzer](cover.svg)
+
+> **Particle event data · Scientific analysis**
+
+**Area:** C++ & Experimental Physics · [Browse project files](./)
+
+---
+
 # C++ Particle Detector Event Analyzer
 C++20 pipeline that generates synthetic detector hits, reconstructs coincident events, rejects invalid measurements and reports energy/occupancy statistics.
 
